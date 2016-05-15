@@ -21,8 +21,8 @@ class ViewController: UIViewController {
         if flag{
             display.text = display.text! + digit
         }else{
-            display.text = digit
-            flag = true 
+            display.text = digit  
+            flag = true
         }
        
         
