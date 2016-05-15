@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 					
     @IBOutlet weak var display: UILabel!
     
-    var flag:Bool = false
+    var flag = false
     
     @IBAction func appendDigit(sender: UIButton) {
         let digit = sender.currentTitle!
