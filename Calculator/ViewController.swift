@@ -24,6 +24,7 @@ class ViewController: UIViewController {
             display.text = digit
             flag = true
         }
+        
     }
 
     @IBAction func enter() {
