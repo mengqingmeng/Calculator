@@ -25,6 +25,8 @@ class ViewController: UIViewController {
             flag = true
         }
         
+        
+        
     }
 
     @IBAction func enter() {
